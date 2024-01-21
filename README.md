@@ -1,4 +1,4 @@
-# Mobile Price Classification
+![image](https://github.com/PNUAITeam13/Mobile-Pricing/assets/99980555/7d52017f-2e3d-436c-b3ad-033f886ca38c)# Mobile Price Classification
 
 ## Dataset
 [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv)
@@ -33,3 +33,7 @@ To determine the price range of a mobile phone based on its features
 ## Selected features for prediction
 
 Our team decided to choose all the features, because according to our observations, they all have a great importance for the price of the phone
+
+## Screenshot
+
+![image](https://github.com/PNUAITeam13/Mobile-Pricing/assets/99980555/4901ce5f-1ccf-4e59-8875-4efd73b35516)
