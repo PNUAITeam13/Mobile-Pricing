@@ -1,5 +1,3 @@
-![image](https://github.com/PNUAITeam13/Mobile-Pricing/assets/99980555/7d52017f-2e3d-436c-b3ad-033f886ca38c)# Mobile Price Classification
-
 ## Dataset
 [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv)
 
